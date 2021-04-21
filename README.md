@@ -1,4 +1,4 @@
-### Hi there 👋
+### This is the better version of thonny. You must have python installed to use it. 👋
 
 <!--
 **Better-Thonny/Better-Thonny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
